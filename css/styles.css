@@ -108,3 +108,35 @@ h2{
     text-align: center;
     padding-bottom: 3%;
 }
+#cta{
+    text-align: center;
+    background-color: #0F1123;
+    padding: 7% 15%;
+    color: #fff;
+}
+#text{
+
+    font-weight: 900;
+    font-size: 3rem;
+}
+.footer-buttons{
+    padding: 1% 15%;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+.social-icon{
+    margin: 20px 5px;
+    color: #8f8f8f;
+}
+
+@media (max-width: 1020px) {
+    #title{
+        text-align: center;
+    }
+    .apple-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
